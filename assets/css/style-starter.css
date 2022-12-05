@@ -3368,7 +3368,7 @@ span.red-color {
 }
 
 .w3l-banner-main .bannerhny-content {
-  background: url(/assets/images/IMG_20221121_215603.jpg) top;
+  background: url(../images/IMG_20221121_215603.jpg) top;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
